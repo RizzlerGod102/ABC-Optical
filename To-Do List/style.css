@@ -1,0 +1,10 @@
+ul {
+  list-style: none;
+  padding-left: 0;
+}
+
+body > section {
+  border: 1px black solid;
+  padding: 20px;
+  width: 300px;
+}
