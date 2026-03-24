@@ -36,12 +36,7 @@ A **responsive, one-page website** for **ABC Optical**, a Brisbane-based optical
 
 ## 💻 Tech Stack
 
-- 🏷️ **HTML5** – Provides the structure of the one-page website, including sections like Home, About Us, Services, and Contact.
+- 🏷️ **HTML** – Provides the structure of the one-page website, including sections like Home, About Us, Services, and Contact.
 
-- 🎨 **CSS3** – Styles the website, handles layout, colors, fonts, and responsive behavior for mobile, tablet, and desktop.  
+- 🎨 **CSS** – Styles the website, handles layout, colors, fonts, and responsive behavior for mobile, tablet, and desktop.  
   
-
-
----
-
-## 📂 Project Structure
