@@ -7,9 +7,9 @@ A **responsive, one-page website** for **ABC Optical**, a Brisbane-based optical
 ## ✨ Features
 
 - 🌐 Fully responsive design for desktop, tablet, and mobile
-- 
+
 - 📌 Sticky header with navigation links
-- 
+
    🔄 Smooth scrolling between sections:
   
   - Home
