@@ -1,6 +1,6 @@
 # 🏥 ABC Optical – One Page Website
 
-A **responsive, one-page website** for **ABC Optical**, a Brisbane-based optical store specializing in eye care for children and adults. Built with **HTML & CSS**, this project showcases layout design, responsive styling, and navigation for a small business website.
+A **responsive, one-page website** for **ABC Optical**, a fictional Brisbane-based optical store specializing in eye care for children and adults. Built with **HTML & CSS**, this project showcases layout design, responsive styling, and navigation for a small business website.
 
 ---
 
